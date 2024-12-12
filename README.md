@@ -1,0 +1,2 @@
+# check-load.js
+testing
